@@ -55,7 +55,7 @@ Integrated SQLite database for storing and fetching legal records
 ## 📞 Contact
 - 📧 Email: zakiafiaz79@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/zakiafiaz
-- 💻 GitHub: https://github.com/zakiafiaz
+- 💻 GitHub: https://github.com/zakiafiaz 
 
 ---
 
